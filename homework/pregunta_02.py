@@ -19,3 +19,4 @@ def pregunta_02():
 
 if __name__ == "__main__":
     print(pregunta_02())
+
